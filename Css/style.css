@@ -1,0 +1,17 @@
+.bg{
+    background-image: url(../Annotation\ 2024-08-30\ 144841.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding-bottom: 70px;
+}
+.bg h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(234, 234, 219);
+    text-align: center;
+    font-size: 55px;
+}
+.bg label{
+    color: rgb(234, 234, 219); 
+}
+
+   
